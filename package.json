@@ -1,6 +1,6 @@
 {
-  "name": "md5base64",
-  "version": "1.0.0",
+  "name": "md5b64",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

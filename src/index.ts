@@ -242,4 +242,4 @@ function binl2b64(binarray) {
   return str;
 }
 
-export { b64_md5 as md5base64 };
+export { b64_md5 as md5Base64 };
